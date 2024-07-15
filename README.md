@@ -1,8 +1,4 @@
 # quiz-app
-Creating a README file for your Quiz App project is a good way to provide essential information about the project, its functionality, setup instructions, and other relevant details. Here's a basic structure you can use for your README file:
-
----
-
 # Quiz App
 
 ![image](https://github.com/user-attachments/assets/f8a1a9d0-c9ac-47d2-9299-e653a59ef946)
